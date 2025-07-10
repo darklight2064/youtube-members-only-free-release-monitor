@@ -2,7 +2,7 @@
   "playlist_id": "PLO_DkCSmTKMNMgr-JKMDV2Sw2HW59LMvc",
   "playlist_title": "\u4f1a\u5458\u4e13\u5c5e",
   "total_videos": 138,
-  "monitored_at": "2025-07-10T14:49:03.397242",
+  "monitored_at": "2025-07-10T14:55:11.024732",
   "videos": [
     {
       "position": 1,
@@ -12,7 +12,7 @@
       "is_member_only": false,
       "availability": "limited_free",
       "error_message": null,
-      "checked_at": "2025-07-10T14:49:03.397433"
+      "checked_at": "2025-07-10T14:55:11.024940"
     },
     {
       "position": 2,
@@ -22,7 +22,7 @@
       "is_member_only": true,
       "availability": "member_only",
       "error_message": null,
-      "checked_at": "2025-07-10T14:49:03.397519"
+      "checked_at": "2025-07-10T14:55:11.025032"
     },
     {
       "position": 3,
@@ -32,7 +32,7 @@
       "is_member_only": true,
       "availability": "member_only",
       "error_message": null,
-      "checked_at": "2025-07-10T14:49:03.397580"
+      "checked_at": "2025-07-10T14:55:11.025098"
     }
   ]
 }

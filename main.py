@@ -131,9 +131,9 @@ def main():
     parser = argparse.ArgumentParser(description="YouTube Playlist Monitor")
     parser.add_argument(
         '--mode', 
-        choices=['monitor', 'once', 'test-email'], 
-        default='monitor',
-        help='Run mode: monitor (continuous), once (single check), test-email (test notifications)'
+        choices=['once', 'monitor', 'test-email'], 
+        default='once',
+        help='Run mode: once (single check - default), monitor (continuous), test-email (test notifications)'
     )
     
     args = parser.parse_args()
@@ -141,10 +141,10 @@ def main():
     try:
         app = YouTubePlaylistMonitor()
         
-        if args.mode == 'monitor':
-            app.run_scheduled()
-        elif args.mode == 'once':
+        if args.mode == 'once':
             app.run_once()
+        elif args.mode == 'monitor':
+            app.run_scheduled()
         elif args.mode == 'test-email':
             success = app.test_email()
             sys.exit(0 if success else 1)

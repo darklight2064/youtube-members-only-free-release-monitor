@@ -67,3 +67,13 @@
 2025-07-10 14:49:05,516 - youtube_monitor - INFO - 📧 Notification sent successfully
 2025-07-10 14:50:43,081 - youtube_monitor - INFO - Received signal 2, shutting down gracefully...
 2025-07-10 14:50:43,831 - youtube_monitor - INFO - 👋 Monitor stopped
+2025-07-10 14:52:31,623 - youtube_monitor - INFO - 🔍 Running single monitoring check
+2025-07-10 14:52:31,623 - youtube_monitor - INFO - 🔍 Starting monitoring cycle
+2025-07-10 14:52:38,250 - youtube_monitor - INFO - 📊 No changes detected
+2025-07-10 14:54:05,307 - youtube_monitor - INFO - 🔍 Running single monitoring check
+2025-07-10 14:54:05,307 - youtube_monitor - INFO - 🔍 Starting monitoring cycle
+2025-07-10 14:54:12,218 - youtube_monitor - INFO - 📊 No changes detected
+2025-07-10 14:55:04,894 - youtube_monitor - INFO - 🔍 Running single monitoring check
+2025-07-10 14:55:04,894 - youtube_monitor - INFO - 🔍 Starting monitoring cycle
+2025-07-10 14:55:11,027 - youtube_monitor - INFO - 🎉 Found 1 video(s) that became free!
+2025-07-10 14:55:12,314 - youtube_monitor - INFO - 📧 Notification sent successfully
