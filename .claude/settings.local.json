@@ -7,7 +7,9 @@
       "Bash(uv run:*)",
       "Bash(cp:*)",
       "Bash(rm:*)",
-      "Bash(sed:*)"
+      "Bash(sed:*)",
+      "Bash(mkdir:*)",
+      "Bash(mv:*)"
     ],
     "deny": []
   }
