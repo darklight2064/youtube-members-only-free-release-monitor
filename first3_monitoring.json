@@ -1,0 +1,37 @@
+{
+  "playlist_id": "PLO_DkCSmTKMNMgr-JKMDV2Sw2HW59LMvc",
+  "playlist_title": "\u4f1a\u5458\u4e13\u5c5e",
+  "monitored_at": "2025-07-10T13:55:06.137253",
+  "videos": [
+    {
+      "position": 1,
+      "id": "yXLMZbcr6wU",
+      "title": "\u3010\u4f1a\u5458\u9650\u514d\u3011\"\u4e8c\u624b\u53d9\u4e8b\"\u6b63\u5728\u9501\u6b7b\u4f60\u7684\u4e16\u754c\u89c2",
+      "url": "https://www.youtube.com/watch?v=yXLMZbcr6wU",
+      "is_member_only": true,
+      "availability": "member_only",
+      "error_message": null,
+      "checked_at": "2025-07-10T13:54:34.399514"
+    },
+    {
+      "position": 2,
+      "id": "8Dcop5ewKrI",
+      "title": "AI\u8ba9\u666e\u901a\u4eba\u65e0\u6240\u4e0d\u80fd\uff0c\u4f46\u53ea\u67091%\u7684\u4eba\u5728\u8ba4\u771f\u4f7f\u7528\uff5c\u5341\u5b57\u8def\u53e3Koji x Onboard Monica",
+      "url": "https://www.youtube.com/watch?v=8Dcop5ewKrI",
+      "is_member_only": true,
+      "availability": "member_only",
+      "error_message": null,
+      "checked_at": "2025-07-10T13:54:44.311974"
+    },
+    {
+      "position": 3,
+      "id": "JDTmSUQWch4",
+      "title": "\u5f15\u5bfc\u522b\u4eba\u7ed3\u8bba\u7684\u79d8\u672f -- Framing",
+      "url": "https://www.youtube.com/watch?v=JDTmSUQWch4",
+      "is_member_only": true,
+      "availability": "member_only",
+      "error_message": null,
+      "checked_at": "2025-07-10T13:54:56.327394"
+    }
+  ]
+}

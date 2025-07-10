@@ -1,0 +1,38 @@
+{
+  "playlist_id": "PLO_DkCSmTKMNMgr-JKMDV2Sw2HW59LMvc",
+  "playlist_title": "会员专属",
+  "total_videos": 138,
+  "monitored_at": "2025-07-10T14:21:19.204510",
+  "videos": [
+    {
+      "position": 1,
+      "id": "yXLMZbcr6wU",
+      "title": "【会员限免】\"二手叙事\"正在锁死你的世界观",
+      "url": "https://www.youtube.com/watch?v=yXLMZbcr6wU",
+      "is_member_only": false,
+      "availability": "limited_free",
+      "error_message": null,
+      "checked_at": "2025-07-10T14:21:19.206699"
+    },
+    {
+      "position": 2,
+      "id": "8Dcop5ewKrI",
+      "title": "AI让普通人无所不能，但只有1%的人在认真使用｜十字路口Koji x Onboard Monica",
+      "url": "https://www.youtube.com/watch?v=8Dcop5ewKrI",
+      "is_member_only": true,
+      "availability": "member_only",
+      "error_message": null,
+      "checked_at": "2025-07-10T14:21:19.206802"
+    },
+    {
+      "position": 3,
+      "id": "JDTmSUQWch4",
+      "title": "引导别人结论的秘术 -- Framing",
+      "url": "https://www.youtube.com/watch?v=JDTmSUQWch4",
+      "is_member_only": true,
+      "availability": "member_only",
+      "error_message": null,
+      "checked_at": "2025-07-10T14:21:24.754401"
+    }
+  ]
+}

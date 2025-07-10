@@ -1,0 +1,69 @@
+2025-07-10 14:06:31,549 - youtube_monitor - INFO - 🚀 Starting YouTube Playlist Monitor
+2025-07-10 14:06:31,549 - youtube_monitor - INFO - 📋 Monitoring playlist every 30 minutes
+2025-07-10 14:06:31,549 - youtube_monitor - INFO - 📧 Notifications will be sent to: blablawhen@gmail.com
+2025-07-10 14:06:31,549 - youtube_monitor - INFO - 🔍 Running initial monitoring check
+2025-07-10 14:06:31,549 - youtube_monitor - INFO - 🔍 Starting monitoring cycle
+2025-07-10 14:06:59,426 - youtube_monitor - INFO - 📊 No changes detected
+2025-07-10 14:07:11,656 - youtube_monitor - INFO - Received signal 2, shutting down gracefully...
+2025-07-10 14:07:12,475 - youtube_monitor - INFO - 👋 Monitor stopped
+2025-07-10 14:07:49,824 - youtube_monitor - INFO - 🚀 Starting YouTube Playlist Monitor
+2025-07-10 14:07:49,825 - youtube_monitor - INFO - 📋 Monitoring playlist every 30 minutes
+2025-07-10 14:07:49,825 - youtube_monitor - INFO - 📧 Notifications will be sent to: blablawhen@gmail.com
+2025-07-10 14:07:49,825 - youtube_monitor - INFO - 🔍 Running initial monitoring check
+2025-07-10 14:07:49,825 - youtube_monitor - INFO - 🔍 Starting monitoring cycle
+2025-07-10 14:08:17,152 - youtube_monitor - INFO - 📊 No changes detected
+2025-07-10 14:08:47,180 - youtube_monitor - INFO - Received signal 2, shutting down gracefully...
+2025-07-10 14:08:47,253 - youtube_monitor - INFO - 👋 Monitor stopped
+2025-07-10 14:25:28,399 - youtube_monitor - INFO - 🚀 Starting YouTube Playlist Monitor
+2025-07-10 14:25:28,400 - youtube_monitor - INFO - 📋 Monitoring playlist every 30 minutes
+2025-07-10 14:25:28,400 - youtube_monitor - INFO - 📧 Notifications will be sent to: blablawhen@gmail.com
+2025-07-10 14:25:28,400 - youtube_monitor - INFO - 🔍 Running initial monitoring check
+2025-07-10 14:25:28,400 - youtube_monitor - INFO - 🔍 Starting monitoring cycle
+2025-07-10 14:25:46,439 - youtube_monitor - INFO - 📊 No changes detected
+2025-07-10 14:26:00,730 - youtube_monitor - INFO - Received signal 2, shutting down gracefully...
+2025-07-10 14:26:01,486 - youtube_monitor - INFO - 👋 Monitor stopped
+2025-07-10 14:27:12,775 - youtube_monitor - INFO - 🚀 Starting YouTube Playlist Monitor
+2025-07-10 14:27:12,776 - youtube_monitor - INFO - 📋 Monitoring playlist every 30 minutes
+2025-07-10 14:27:12,776 - youtube_monitor - INFO - 📧 Notifications will be sent to: blablawhen@gmail.com
+2025-07-10 14:27:12,776 - youtube_monitor - INFO - 🔍 Running initial monitoring check
+2025-07-10 14:27:12,776 - youtube_monitor - INFO - 🔍 Starting monitoring cycle
+2025-07-10 14:27:32,109 - youtube_monitor - INFO - 📊 No changes detected
+2025-07-10 14:29:54,234 - youtube_monitor - INFO - 📧 Testing email notification system
+2025-07-10 14:29:56,343 - youtube_monitor - ERROR - ❌ Failed to send test email
+2025-07-10 14:32:43,929 - youtube_monitor - INFO - 📧 Testing email notification system
+2025-07-10 14:32:45,355 - youtube_monitor - INFO - ✅ Test email sent successfully!
+2025-07-10 14:32:54,848 - youtube_monitor - INFO - 🔍 Running single monitoring check
+2025-07-10 14:32:54,848 - youtube_monitor - INFO - 🔍 Starting monitoring cycle
+2025-07-10 14:33:08,931 - youtube_monitor - INFO - 🎉 Found 1 video(s) that became free!
+2025-07-10 14:33:10,326 - youtube_monitor - INFO - 📧 Notification sent successfully
+2025-07-10 14:33:59,290 - youtube_monitor - INFO - Received signal 2, shutting down gracefully...
+2025-07-10 14:33:59,321 - youtube_monitor - INFO - 👋 Monitor stopped
+2025-07-10 14:35:39,545 - youtube_monitor - INFO - 🚀 Starting YouTube Playlist Monitor
+2025-07-10 14:35:39,545 - youtube_monitor - INFO - 📋 Monitoring playlist every 30 minutes
+2025-07-10 14:35:39,545 - youtube_monitor - INFO - 📧 Notifications will be sent to: blablawhen@gmail.com
+2025-07-10 14:35:39,545 - youtube_monitor - INFO - 🔍 Running initial monitoring check
+2025-07-10 14:35:39,545 - youtube_monitor - INFO - 🔍 Starting monitoring cycle
+2025-07-10 14:35:56,988 - youtube_monitor - INFO - 📊 No changes detected
+2025-07-10 14:41:34,679 - youtube_monitor - INFO - Received signal 2, shutting down gracefully...
+2025-07-10 14:41:34,949 - youtube_monitor - INFO - 👋 Monitor stopped
+2025-07-10 14:41:40,062 - youtube_monitor - INFO - 🚀 Starting YouTube Playlist Monitor
+2025-07-10 14:41:40,062 - youtube_monitor - INFO - 📋 Monitoring playlist every 30 minutes
+2025-07-10 14:41:40,063 - youtube_monitor - INFO - 📧 Notifications will be sent to: blablawhen@gmail.com
+2025-07-10 14:41:40,063 - youtube_monitor - INFO - 🔍 Running initial monitoring check
+2025-07-10 14:41:40,063 - youtube_monitor - INFO - 🔍 Starting monitoring cycle
+2025-07-10 14:41:45,670 - youtube_monitor - INFO - 📊 No changes detected
+2025-07-10 14:42:24,990 - youtube_monitor - INFO - Received signal 2, shutting down gracefully...
+2025-07-10 14:42:25,588 - youtube_monitor - INFO - Received signal 2, shutting down gracefully...
+2025-07-10 14:42:25,782 - youtube_monitor - INFO - 👋 Monitor stopped
+2025-07-10 14:46:40,929 - youtube_monitor - INFO - 🚀 Starting YouTube Playlist Monitor
+2025-07-10 14:46:40,929 - youtube_monitor - INFO - 📋 Monitoring playlist every 30 minutes
+2025-07-10 14:46:40,929 - youtube_monitor - INFO - 📧 Notifications will be sent to: blablawhen@gmail.com
+2025-07-10 14:46:40,930 - youtube_monitor - INFO - 🔍 Running initial monitoring check
+2025-07-10 14:46:40,930 - youtube_monitor - INFO - 🔍 Starting monitoring cycle
+2025-07-10 14:46:45,078 - youtube_monitor - INFO - 📊 No changes detected
+2025-07-10 14:48:57,406 - youtube_monitor - INFO - 🔍 Running single monitoring check
+2025-07-10 14:48:57,406 - youtube_monitor - INFO - 🔍 Starting monitoring cycle
+2025-07-10 14:49:03,399 - youtube_monitor - INFO - 🎉 Found 1 video(s) that became free!
+2025-07-10 14:49:05,516 - youtube_monitor - INFO - 📧 Notification sent successfully
+2025-07-10 14:50:43,081 - youtube_monitor - INFO - Received signal 2, shutting down gracefully...
+2025-07-10 14:50:43,831 - youtube_monitor - INFO - 👋 Monitor stopped
